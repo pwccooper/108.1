@@ -1,0 +1,23 @@
+.menuContainer{
+
+    border: 1px solid darkblue;
+    background-color: #ccc;
+
+}
+
+li{
+
+     display: inline-block;
+     padding: 10px 20px;
+     border-right: 2px solid black;
+     text-align: center;
+     width: 120px;
+     
+}
+
+li:hover {
+
+ font-weight: bold;
+ color: red;
+
+}
